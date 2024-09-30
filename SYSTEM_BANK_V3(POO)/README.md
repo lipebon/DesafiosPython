@@ -129,8 +129,6 @@ Vá até a página do repositório original e abra um Pull Request, explicando d
  - Descreva o problema ou a melhoria sugerida, e ficaremos felizes em discutir a melhor solução!
 
 -----------
------------
-
 
 ## 📧 Contato
 Felipe Teixeira Bon - felipetbon@gmail.com

@@ -66,10 +66,12 @@ Saldo:
 
 ## 🖼️ Demonstração
 
-````
-Clique abaixo para ver o sistema funcionando:
-[Demonstração de Funcionamento]()
-````
+```
+Veja abaixo para ver o sistema funcionando:
+```
+
+<img src=https://raw.githubusercontent.com/lipebon/DesafiosPython/refs/heads/main/SYSTEM_BANK_V3%20(POO)/gif/demo_funcionamento_py.gif>
+
 
 
 ## 🧠 Tecnologias Utilizadas
@@ -79,7 +81,8 @@ Python: Linguagem principal do projeto.
 Orientação a Objetos (OOP): Estrutura de classes como Cliente, Conta, Transacao, etc.
 Biblioteca time: Para adicionar delays e melhorar a experiência do usuário.
 ```
-[Demonstração de código]()
+
+<img src=https://github.com/lipebon/DesafiosPython/blob/main/SYSTEM_BANK_V3%20(POO)/gif/demo_cod_py.gif>
 
 
 ---
@@ -119,7 +122,6 @@ git push origin minha-feature
 ```
 
 ### 6. Abra um Pull Request
-
 
 Vá até a página do repositório original e abra um Pull Request, explicando detalhadamente as mudanças que você fez.
 
